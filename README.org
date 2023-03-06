@@ -1,0 +1,3 @@
+#+TITLE: D Design Pattern
+
+trying to learn good Design Pattern with D programming language
